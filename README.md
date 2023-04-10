@@ -1,6 +1,6 @@
 Yazılımcı Fabrikası Programı
 
-6.Hafta Projem :
+7.Hafta Projem :
 
 Siteme [buraya](https://serhatzunluoglu-react-axios-eticaret.netlify.app/) tıklayarak ulaşabilirsin.  
 
